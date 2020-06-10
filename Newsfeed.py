@@ -13,7 +13,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -24,7 +24,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -35,7 +35,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -46,7 +46,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -57,7 +57,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -68,7 +68,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -79,7 +79,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -90,7 +90,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -101,7 +101,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -112,7 +112,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -123,7 +123,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -134,7 +134,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -145,7 +145,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -156,7 +156,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -167,7 +167,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -178,7 +178,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -189,7 +189,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -200,7 +200,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -211,7 +211,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -222,7 +222,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -233,7 +233,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -244,7 +244,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -255,7 +255,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -266,7 +266,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -277,7 +277,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -288,7 +288,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -299,7 +299,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -310,7 +310,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -321,7 +321,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -332,7 +332,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -343,7 +343,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -354,7 +354,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -365,7 +365,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -376,7 +376,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -387,7 +387,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -398,7 +398,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -409,7 +409,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -420,7 +420,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -431,7 +431,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -442,7 +442,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -453,7 +453,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -464,7 +464,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -475,7 +475,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -486,7 +486,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -497,7 +497,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -508,7 +508,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -519,7 +519,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -530,7 +530,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -541,7 +541,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -552,7 +552,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -563,7 +563,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -574,7 +574,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -585,7 +585,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -596,7 +596,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -607,7 +607,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -618,7 +618,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -629,7 +629,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -640,7 +640,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -651,7 +651,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -662,7 +662,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -673,7 +673,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -684,7 +684,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -695,7 +695,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -706,7 +706,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -717,7 +717,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -728,7 +728,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -739,7 +739,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -750,7 +750,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -761,7 +761,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -772,7 +772,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -783,7 +783,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -794,7 +794,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -805,7 +805,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -816,7 +816,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -827,7 +827,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -838,7 +838,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -849,7 +849,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -860,7 +860,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -871,7 +871,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -882,7 +882,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -893,7 +893,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -904,7 +904,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -915,7 +915,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -926,7 +926,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -937,7 +937,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -948,7 +948,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -959,7 +959,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -970,7 +970,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -981,7 +981,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -992,7 +992,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1003,7 +1003,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1014,7 +1014,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1025,7 +1025,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1036,7 +1036,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1047,7 +1047,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1058,7 +1058,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1069,7 +1069,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1080,7 +1080,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1091,7 +1091,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1102,7 +1102,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1113,7 +1113,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1124,7 +1124,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1135,7 +1135,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1146,7 +1146,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1157,7 +1157,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1168,7 +1168,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1179,7 +1179,7 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
 
 # title of news feed, link to article and date/time of feed
@@ -1190,5 +1190,5 @@ print entry.link
 print "************"
 print entry.published
 
-# Wait 3 minutes 30 seconds before the next news feed
+# Wait 1 minutes before the next news feed
 time.sleep(60)
